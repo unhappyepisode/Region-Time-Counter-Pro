@@ -101,7 +101,7 @@ Inside the script:
 
 ## Screenshots
 
-![UI](main/ui.jpg)
+![UI](ui.jpg)
 
 ---
 
