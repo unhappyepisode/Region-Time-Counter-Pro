@@ -113,4 +113,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-34birds
+34dev — Audio Tools by Alexey Vorobyov (34birds)
